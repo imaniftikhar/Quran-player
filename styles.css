@@ -6,7 +6,7 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background: url('quran.jpg') no-repeat top  right;
+    background: url('background.jpg') no-repeat top  right;
     background-size: cover;
   }
   h1{
