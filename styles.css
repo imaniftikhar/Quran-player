@@ -38,3 +38,17 @@ body {
     border-radius: 15px;
   }
     
+button{
+  background-color: #c32727;
+  color: beige;
+  border: none;
+  border-radius: 5px;
+  height: 25px;
+  margin: 5px;
+  padding: 5px;
+}
+
+
+ul{
+  list-style-type: none;
+}
